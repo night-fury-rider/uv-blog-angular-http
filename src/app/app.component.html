@@ -1,0 +1,15 @@
+<div class="content" role="main">
+
+
+  <h2>{{title}}</h2>
+
+  <div class="card-container">
+    <button class="card uv-card" (click)="loadGOTData()">Observable</button>
+    <button class="card uv-card" (click)="loadCricketData()">Promise</button>
+  </div>
+
+  <ul *ngIf="people">
+    <li *ngFor="let person of people">
+      {{person.name}}
+    </li>
+  </ul>
