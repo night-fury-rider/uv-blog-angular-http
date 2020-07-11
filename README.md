@@ -8,4 +8,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ### Notes
 
-This source code is for the blog written by Yuvraj Patil on Observable vs Promise in Angular
+This source code is for the blog written by [Yuvraj Patil](https://medium.com/@yuvi1422) on Observable vs Promise in Angular
